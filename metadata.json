@@ -1,0 +1,6 @@
+{
+  "name": "RakshaAI",
+  "description": "An AI-powered cyber safety assistant that protects users from scam calls, phishing, WhatsApp frauds, fake UPI receipts, and social engineering attacks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
